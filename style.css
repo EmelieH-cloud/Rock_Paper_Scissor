@@ -1,0 +1,52 @@
+.container
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+    text-align: center; 
+    font-family: 'Alkatra';
+    background-color:aquamarine; 
+}
+
+img
+{
+    border: 2px solid black;
+}
+button
+{
+    font-family: 'Alkatra';
+    font-size: 30px; 
+}
+p
+{
+    font-size: 25px; 
+}
+#p4
+{
+    color: darkgreen;
+}
+#p5
+{
+    color: darkblue; 
+}
+#p3
+{
+    color: red; 
+    font-weight: bold;
+}
+#p1
+{
+    font-style:italic; 
+}
+#p2
+{
+    font-style:italic; 
+}
+#result
+{
+    font-size: 30px; 
+}
+h1
+{
+    font-size: 70px;
+}
